@@ -4,11 +4,13 @@ export default {
 </script>
 
 <template>
-  <div class="header">
-    <h3>Header</h3>
-  </div>
-</template>
 
+  <div class="middle">
+    <h3>MiddleCompo</h3>
+
+  </div>
+
+</template>
 
 <style scoped>
 
